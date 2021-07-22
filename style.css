@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+body {
+    font-family: 'Zen Tokyo Zoo', cursive;
+    font-size: 100px;
+    background-color:whitesmoke;
+  }
+h1{
+    text-align: center;
+    color:crimson;
+    background-color: azure;
+    border-color: lightblue;
+}
+h3{
+    text-align: center;
+    text-decoration: solid;
+
+}
